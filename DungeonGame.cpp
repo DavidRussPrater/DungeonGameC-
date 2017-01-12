@@ -1,7 +1,5 @@
-// David Prater
-// 11/2/2015
-// Assignment 7
-// Dungeon Game With File in and File out
+//Author: David Prater
+
  
 #include <iostream>
 #include <string>
