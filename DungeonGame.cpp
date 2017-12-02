@@ -1,4 +1,5 @@
 //Author: David Prater
+// This program is a simple dungeon game that tells the last users full name and the square root of their favorite number
 
  
 #include <iostream>
